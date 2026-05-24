@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path 'c:\\\\Workspace\\\\invoice_management_system\\\\src\\\\main\\\\resources\\\\' -ErrorAction SilentlyContinue)",
+      "Bash(Select-Object Name)"
+    ]
+  }
+}
